@@ -47,7 +47,7 @@ This repository contains materials for the project **"Assessing the Risk Factors
 - Strong correlations were found between stroke and factors like hypertension, heart disease, and glucose levels.
 - The Random Forest model outperformed other models, achieving 99% accuracy and an AUC of 1.0, indicating outstanding predictive performance.
 
-## Authors
+## Contributors
 
 - Bhavana Bethi  
 - Keerthika Sunchu  
