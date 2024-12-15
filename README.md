@@ -12,7 +12,7 @@ This repository contains the materials for the project **"Assessing the Risk Fac
 ## Files in the Repository
 
 - `stroke-risk-analysis.ipynb`: Jupyter Notebook with the full data analysis and machine learning workflows.
-- `stroke-risk-analysis-presentation.pdf`: A PDF presentation summarizing the project methodology, results, and key insights.
+- `stroke-risk-analysis-presentation.pdf`: A presentation summarizing the project methodology, results, and key insights.
 
 ## Methodology
 
@@ -29,11 +29,6 @@ This repository contains the materials for the project **"Assessing the Risk Fac
 
 - **Correlation**: Strong associations found between stroke and factors like hypertension, heart disease, and glucose levels.
 - **Best Model**: Random Forest outperformed other models with an AUC of 1.0, indicating exceptional discriminatory power.
-
-## Limitations
-
-- Dataset merging was limited due to the lack of unique columns.
-- Age inconsistencies in the dataset required additional preprocessing.
 
 ## Authors
 
