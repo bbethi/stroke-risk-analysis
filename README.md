@@ -58,4 +58,4 @@ This repository contains materials for the project **"Assessing the Risk Factors
 ## Contact
 
 For questions or suggestions, please contact:  
-Keerthika Sunchu - [ksunchu@iu.edu](mailto:ksunchu@iu.edu)
+Pallavi Telu - [ptelu@iu.edu](mailto:ptelu@iu.edu)
