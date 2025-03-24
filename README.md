@@ -1,5 +1,4 @@
-# Assessing the Risk Factors Associated with Stroke
-
+# Predictive Modeling of Stroke Risk Using Clinical and Demographic Data
 This repository contains materials for the project **"Assessing the Risk Factors Associated with Stroke"**. The project investigates the relationships between various risk factors (e.g., age, BMI, hypertension, smoking, and glucose levels) and stroke occurrence. By employing data analysis and machine learning, we aim to provide insights that can aid healthcare decision-making and policy formulation.
 
 ## Project Overview
