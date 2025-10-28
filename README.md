@@ -54,7 +54,5 @@ This repository contains materials for the project **"Assessing the Risk Factors
 - Srija Dammanagari  
 - Yazna Penmetsa  
 
-## Contact
 
-For questions or suggestions, please contact:  
-Pallavi Telu - [ptelu@iu.edu](mailto:ptelu@iu.edu)
+
